@@ -6,7 +6,14 @@ I am... well, I dont know what I actually am. I build websites for clients, but 
 
 🌱 I am currently focusing on learning as much as I can about TypeScript and Vue.js through actual client projects.
 
-📫 I can be found on twitter as @jtkendall. I am starting over on my account, but plan on focusing on only web development topics. You can send me a DM over there, but I do not have notifications on. I check twitter several so if you message or mention me Im not ignoring you, I most likely haven't seen it yet.
+Other things I plan on learning more about are:
+
+- [ ] Svelte
+- [ ] Marko
+- [ ] Elm
+- [ ] Blazor
+
+📫 I can be found on twitter as @jtkendall. I am starting over on my account, but plan on focusing on only web development topics. You can send me a DM over there, but I do not have notifications on. I check twitter several times per day, so if you message or mention me Im not ignoring you, I most likely haven't seen it yet.
 
 <!--
 **jtkendall/jtkendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
