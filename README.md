@@ -4,11 +4,11 @@ I am... well, I dont know what I actually am. I build websites for clients, but 
 
 🔭 I am currently working on predominently PHP (WordPress) projects but theres a lot of Vue.js and Microsoft Azure work involved as well.
 
-🌱 I am currently focusing on learning as much as I can about TypeScript and Vue.js through actual client projects.
+🌱 I am currently focusing on learning as much as I can about TypeScript, Vue.js, and Svelte through actual client projects.
 
 Other things I plan on learning more about are:
 
-- [ ] Svelte
+- [x] Svelte
 - [ ] Marko
 - [ ] Elm
 - [ ] Blazor
