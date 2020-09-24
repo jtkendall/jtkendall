@@ -1,6 +1,6 @@
 ### Hi there I'm Josh
 
-I am... well, I dont know what I actually am. I build websites for clients, but its not just "here is some HTML and CSS have a nice day". I spend a lot of time making sure clients get the exact solution they want. I also dont stick to web technologies, sometimes there are iOS projects, sometimes there's C#, and sometimes I find myself doing a ton of research on a specific service to determine if it will benefit my client. I guess lets just call me a software developer and we'll put an asterisk on the end.
+I am... well, I don't know what I actually am. I build websites for clients, but it's not just "here is some HTML and CSS have a nice day". I spend a lot of time making sure clients get the exact solution they want. I also don't stick to web technologies, sometimes there are iOS projects, sometimes there's C#, and sometimes I find myself doing a ton of research on a specific service to determine if it will benefit my client. I guess let's just call me a software developer and we'll put an asterisk on the end.
 
 🔭 I am currently working on predominently PHP (WordPress) projects but theres a lot of Vue.js and Microsoft Azure work involved as well.
 
