@@ -1,6 +1,6 @@
 ### Hi there I'm Josh
 
-I'm a web developer who makes awesome and very managable things. I spend a lot of time making sure clients get the exact solution they want. I also don't stick to web technologies, sometimes there are iOS projects, sometimes there's C#, and sometimes I find myself doing a ton of research on a specific service to determine if it will benefit my client.
+I'm a web developer who makes awesome and very manageable things. I spend a lot of time making sure clients get the exact solution they want. I also don't stick to web technologies, sometimes there are iOS projects, sometimes there's C#, and sometimes I find myself doing a ton of research on a specific service to determine if it will benefit my client.
 
 🔭 I am currently working on a Laravel and Vue.js CPQ product for a client.
 
