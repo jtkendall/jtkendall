@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif" width="300" />
+
 ### Hi there I'm Josh
 
 I'm a web developer who makes awesome and very manageable things. I spend a lot of time making sure clients get the exact solution they want. I also don't stick to web technologies, sometimes there are iOS projects, sometimes there's C#, and sometimes I find myself doing a ton of research on a specific service to determine if it will benefit my client.
