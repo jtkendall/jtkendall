@@ -1,19 +1,10 @@
-### Hi there I'm Josh
+### Hi there, I'm Josh
 
-I'm a web developer who makes awesome and very manageable things. I spend a lot of time making sure clients get the exact solution they want. I also don't stick to web technologies, sometimes there are iOS projects, sometimes there's C#, and sometimes I find myself doing a ton of research on a specific service to determine if it will benefit my client.
+I'm a developer who makes awesome and very manageable things. I spend a lot of time making sure clients get the exact solution they want, be it a WordPress plugin, iOS app, or a bespoke web application.
 
-🔭 I am currently working on a Laravel and Vue.js CPQ product for a client.
+🌱 I am currently building applications in Laravel with plans to start learning more about Kotlin. I dabble in C# when neccessary, prefer TypeScript over Javascript, use SCSS over all other options when I have to write my own styles but prefer to use Tailwind whenever possible.
 
-🌱 I am currently focusing on learning as much as I can about TypeScript, Vue.js, and Svelte through actual client projects.
-
-Other things I plan on learning more about are:
-
-- [x] Svelte
-- [ ] Marko
-- [ ] Elm
-- [ ] Blazor
-
-📫 I can be found on twitter as @jtkendall. I am starting over on my account, but plan on focusing on only web development topics. You can send me a DM over there, but I do not have notifications on. I check twitter several times per day, so if you message or mention me Im not ignoring you, I most likely haven't seen it yet.
+📫 I used to have a Twitter account, but I never use it. I don't like to post email addresses or other contact methods publically as it leads to spam and if I decide to change email address or a social media presence then I have to update this and hope people realize there's been a change. Instead of that I've created a repo called messages where anyone who needs to contact me can leave a short message under the discussions tab and I'll get back to them. [Read this](https://github.com/jtkendall/messages/discussions/1) **BEFORE** starting a discussion on that repo.
 
 <!--
 **jtkendall/jtkendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
