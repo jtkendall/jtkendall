@@ -2,9 +2,9 @@
 
 I'm a developer who makes awesome and very manageable things. I spend a lot of time making sure clients get the exact solution they want, be it a WordPress plugin, iOS app, or a bespoke web application.
 
-🌱 I am currently building applications in Laravel with plans to start learning more about Kotlin. I dabble in C# when neccessary, prefer TypeScript over Javascript, use SCSS over all other options when I have to write my own styles but prefer to use Tailwind whenever possible.
+🌱 I am currently building applications in Laravel with plans to start learning more about Kotlin and Rust. I dabble in C# when neccessary, prefer TypeScript over Javascript, use Tailwind whenever possible.
 
-📫 I used to have a Twitter account, but I never use it. I don't like to post email addresses or other contact methods publically as it leads to spam and if I decide to change email address or a social media presence then I have to update this and hope people realize there's been a change. Instead of that I've created a repo called messages where anyone who needs to contact me can leave a short message under the discussions tab and I'll get back to them. [Read this](https://github.com/jtkendall/messages/discussions/1) **BEFORE** starting a discussion on that repo.
+📫 I can be found on Twitter and Instagram with this same username. 
 
 <!--
 **jtkendall/jtkendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
